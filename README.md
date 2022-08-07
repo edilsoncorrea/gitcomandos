@@ -1,8 +1,12 @@
 # Tutorial com diversas sequências de comandos úteis
 
-## Sincronizar um dados de um projeto fork
+## Sincronizar dados de um projeto fork
 
 [Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
+
+![Diagrama](/github1.png "Diagrama")
+
+![Diagrama2](/githu2.png "Diagrama 2")
 
 Lista os branches atuais
 ````
@@ -10,7 +14,6 @@ git remote -v
 ````
 
 Traz para o repositório local os branches antigos e novos do repositório original
-
 
 Adiona a url do repositório original, nesse exemplo: 'https://github.com/MarlinFirmware' ao repositório local do repositório Fork 'https://github.com/edilsoncorrea/Marlin'
 ````
