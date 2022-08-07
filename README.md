@@ -6,7 +6,7 @@
 
 ![Diagrama](/github1.png "Diagrama")
 
-![Diagrama2](/githu2.png "Diagrama 2")
+![Diagrama2](/github2.png "Diagrama 2")
 
 Lista os branches atuais
 ````
@@ -36,7 +36,7 @@ Realiza o merge do branch do repositório original para o repositório local do 
 git merge upstream/2.1.x
 ````
 
-Sobre as alterações para o repositório Fork no Github
+Sobe as alterações para o repositório Fork no Github
 ````
 git push origin 2.1.x
 ````
