@@ -2,7 +2,7 @@
 
 ## Sincronizar dados de um projeto fork
 
-[Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
+Tutorial do canal Data School [Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
 ### Estrutura logo após o Fork
 ![Diagrama](/github1.png "Diagrama")
