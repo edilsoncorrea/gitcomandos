@@ -4,8 +4,10 @@
 
 [Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
+### Estrutura logo após o Fork
 ![Diagrama](/github1.png "Diagrama")
 
+### Estrutura após o Upstream
 ![Diagrama2](/github2.png "Diagrama 2")
 
 Lista os branches atuais
