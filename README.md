@@ -4,8 +4,17 @@
 
 ````
 git remote -v
+````
+
+````
+git remote add upstream https://github.com/MarlinFirmware/Marlin.git
+````
+
+
+````
+
 https://github.com/edilsoncorrea/Marlin.git
 
-https://github.com/MarlinFirmware/Marlin.git
+
 
 ````
