@@ -1,6 +1,6 @@
 # Tutorial com diversas sequências de comandos úteis
 
-## Sincronizar dados de um projeto fork
+## Sincronizar dados de um projeto fork com os dados do projeto original
 
 Tutorial do canal Data School [Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
