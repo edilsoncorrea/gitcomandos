@@ -4,6 +4,10 @@
 
 Tutorial do canal Data School [Syncing Your GitHub Fork](https://www.youtube.com/watch?v=-zvHQXnBO6c)
 
+Documentação do blog do Data School 
+
+[Documentação](https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+
 ### Estrutura logo após o Fork
 ![Diagrama](/github1.png "Diagrama")
 
